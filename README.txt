@@ -1,5 +1,7 @@
+![Ray Tracer example](https://imgur.com/a/as12x)
+
 To use the raytracer run raytracer.py with these arguments:
-Render part A: python raytracer√.py 1 x y image_name
+Render part A: python raytracer√É.py 1 x y image_name
 Render part B: python raytracer.py 2 x y image_name scene_file
 Render part C: python raytracer.py 3 x y image_name scene_file
 
