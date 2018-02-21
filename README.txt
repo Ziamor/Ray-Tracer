@@ -1,4 +1,4 @@
-![Ray Tracer example](https://imgur.com/a/as12x)
+Example: https://imgur.com/a/as12x
 
 To use the raytracer run raytracer.py with these arguments:
 Render part A: python raytracerÃ.py 1 x y image_name
